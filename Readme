@@ -1,0 +1,20 @@
+portfolio/
+│
+├── index.html        // Home Page
+├── gallery.html      // Gallery Page
+├── videos.html       // Videos Page
+├── resume.html       // Resume Page
+│
+├── css/
+│   └── styles.css    // Main CSS file
+│
+├── js/
+│   └── script.js     // JavaScript file
+│
+├── images/
+│   └── your_photo.jpg
+│   └── college_photo1.jpg
+│   └── college_photo2.jpg
+│
+├── resume/
+│   └── your_resume.pdf
